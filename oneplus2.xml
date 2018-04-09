@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="lineage-15.1" />  
+  <project name="AOSiP-Devices/device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="oreo-mr1" />
+  <project name="AOSiP-Devices/kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="oreo-mr1" />
+  <project name="AOSiP-Devices/device_oppo_common" path="device/oppo/common" remote="github" revision="oreo-mr1" />  
   <project name="Shreeesha/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_hardware_qcom_audio" path="platform/hardware/qcom/audio-caf/msm8994" remote="github" revision="lineage-15.1-caf-8994" />
-  <project name="LineageOS/android_hardware_qcom_display" path="platform/hardware/qcom/diaplay-caf/msm8994" remote="github" revision="lineage-15.1-caf-8994" />
-  <project name="LineageOS/android_hardware_qcom_media" path="platform/hardware/qcom/media-caf/msm8994" remote="github" revision="lineage-15.1-caf-8994" />
+  <project name="AOSiP/platform_hardware_qcom_audio" path="platform/hardware/qcom/audio-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
+  <project name="AOSiP/platform_hardware_qcom_display" path="platform/hardware/qcom/diaplay-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
+  <project name="AOSiP/platform_hardware_qcom_media" path="platform/hardware/qcom/media-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
 
 </manifest>
