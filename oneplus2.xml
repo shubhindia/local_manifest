@@ -5,7 +5,7 @@
   <project name="AOSiP-Devices/device_oppo_common" path="device/oppo/common" remote="github" revision="oreo-mr1" />  
   <project name="Shreeesha/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
   <project name="AOSiP/platform_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
-  <project name="AOSiP/platform_hardware_qcom_display" path="hardware/qcom/diaplay-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
+  <project name="AOSiP/platform_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
   <project name="AOSiP/platform_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" remote="github" revision="oreo-mr1-caf-8994" />
 
 </manifest>
